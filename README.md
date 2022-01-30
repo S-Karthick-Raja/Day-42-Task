@@ -4,10 +4,14 @@ Heroku Live Deployed URL : https://day-42-task.herokuapp.com/
 
 To Check Endpoints Use
 
-1. /create-mentor -> To create mentor
+1. '/create-mentor' -> To create mentor
 
-2. /mentors -> To get mentors 
+2. '/mentors' -> To get mentors 
 
-3. /create-student -> To Create Students
+3. '/create-student' -> To Create Students
 
-4. /students -> To get students
+4. '/students' -> To get students
+
+5. '/assign-mentor' -> To assign mentor
+
+6. '/assign-mentor' -> To assign students
